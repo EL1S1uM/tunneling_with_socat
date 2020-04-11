@@ -1,6 +1,7 @@
 #!/bin/bash
 
-#felipesi Was Here - 2017 #desecsecurity
+#felipesi - 2017
+#desecsecurity
 
 myip=$(curl -s icanhazip.com)
 
